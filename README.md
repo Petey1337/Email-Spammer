@@ -1,6 +1,6 @@
 <div align="center">
 
-# https://floodmail.net/ - Email Flooder
+# https://floodmail.net/ - Best Email Flooder
 ![Status](https://img.shields.io/badge/status-working-lime)
 
 </div>
