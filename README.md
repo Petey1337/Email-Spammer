@@ -7,7 +7,7 @@
 
 ## Free Email Flooder
 ## <a href="https://discord.gg/SeSUvHd7HZ">On 50 Users On Discord Premium Floods Will Be Available For Free For A Period Of Time!</a>
-For unlimited floods with more emails: <a href="https://shoppy.gg/product/cMJJIxX">Purchase Key!</a>
+For unlimited floods with more emails: <a href="https://floodmail.net/purchase">Purchase Key!</a>
 <a href="https://discord.gg/fy37kQNr38" target="_blank">Discord</a>
 <a href="https://t.me/floodmail" target="_blank">Telegram</a>
 
