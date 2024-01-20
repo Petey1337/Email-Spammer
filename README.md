@@ -6,7 +6,7 @@
 </div>
 
 ## Free Email Flooder
-For unlimited floods with more emails: <a href="https://floodmail.net/purchase">Purchase Key!</a>
+For unlimited floods with more emails: <a href="https://floodmail.net/purchase">Purchase Plan!</a>
 <a href="https://discord.gg/fy37kQNr38" target="_blank">Discord</a>
 <a href="https://t.me/floodmail" target="_blank">Telegram</a>
 
