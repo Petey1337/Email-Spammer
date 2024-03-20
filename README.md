@@ -19,6 +19,10 @@ For unlimited floods with more emails: <a href="https://floodmail.net/purchase">
 
 ## Sneak Peak
 <img src="https://github.com/Petey1337/Email-Spammer/blob/main/floodmail.png?raw=true">
+<a href="https://www.youtube.com/watch?v=QYvj7cOD23g">
+  <img alt="Video" src="https://i.imgur.com/RSLWvfA.png"/>
+</a>
+
 
 ## Legal Disclaimer
 * This tool is provided for informational purposes only and is not intended to be used for any illegal or unauthorized activity, including but not limited to spamming of websites. We do not endorse or condone any such activities.
